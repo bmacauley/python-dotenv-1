@@ -10,7 +10,7 @@ The default file name is `.env`; for an alternative use `dotenv.load('filename')
 Install using pip
 
 ```sh
-pip -e git+https://gitlab.com/konstantinos/python-dotenv.git#egg=dotenv
+pip -e git+https://github.com/kpachnis/python-dotenv.git#egg=dotenv
 ```
 
 ## Django usage
