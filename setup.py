@@ -10,7 +10,7 @@ setup(
     long_description=open(os.path.join(ROOT, 'README.md')).read(),
     author='Konstantinos Pachnis',
     author_email='konstantinos@bugeffect.com',
-    url='https://gitlab.com/konstantinos/python-dotenv',
+    url='https://git.bugeffect.com/python-dotenv.git',
     license='BSD 3-Clause',
     packages=find_packages(),
     zip_safe=False,
